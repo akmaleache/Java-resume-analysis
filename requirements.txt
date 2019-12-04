@@ -1,0 +1,5 @@
+required pakages:
+
+nltk : For text Preprocessing
+pywin32 : To read doc. and .docx format of documents
+tika : To read .pdf file

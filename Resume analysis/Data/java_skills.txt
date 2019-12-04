@@ -1,0 +1,45 @@
+Ajax
+beans
+AWS
+Tomcat
+Blockchain
+Bitcoin
+Eclipse
+NetBeans
+J2EE
+jsp
+JSF
+Servlets
+Struts
+Spring
+SOAP
+REST
+HTML
+CSS
+JavaScript
+Testing
+devops
+JQuery
+XML
+JSON
+OOP
+Hibernate
+Maven
+Java EE 8
+JEE
+Selenium
+Android
+Java 9
+Angular
+vue
+Multithreading
+synchronization
+Dependency injection
+GWT
+Vaadin
+Wicket
+Vert.X
+Grails
+Ruby
+Swing
+SQL
