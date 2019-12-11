@@ -27,7 +27,7 @@ candidates. This project will help to pace up resume screening process by sortin
 ![Alt text](https://drive.google.com/uc?export=view&id=1Xc2jmHCSS_tJkl646I7_U4ytNj8C_GGc)
 ****
 
-##### Steps to execute the project:
+### Steps to execute the project:
 1) Install the packages mentioned in reqiurements.txt 
 2) After clonning, open 'Resume analysis' goto -> python_codes -> scores.py. open it 
 3) you will see variable 'user_path' with blank string, give the current folder path where 'Resume Analysis' resides
@@ -38,4 +38,4 @@ candidates. This project will help to pace up resume screening process by sortin
 6) Run the scores.py Which returns Stud dataframe containing scores
 ****
 
-##### For analysis on java jobs visit [this](https://github.com/akmaleache/JAVA-The-Industrail-Need) link
+### For analysis on java jobs visit [this](https://github.com/akmaleache/JAVA-The-Industrail-Need) link
