@@ -1,5 +1,10 @@
 # Java-resume-analysis
-Quick walkthrough
+
+###Objective Of Project
+An organization invests a lot of its time and resources in search of the potential
+candidates. This project will help to pace up resume screening process by sorting the candidates with respect to their experience and Skills.
+
+###Quick walkthrough
 
 #####  1) Collected raw resumes :
 
